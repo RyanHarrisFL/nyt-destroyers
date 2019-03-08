@@ -1,4 +1,7 @@
-var test = ("changes");
+
+
+console.log(test)
+=======
 var searchTerm = "SpaceX";
 var numResults = 0;
 var startYear = "20150101"; 
