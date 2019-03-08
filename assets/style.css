@@ -1,0 +1,10 @@
+.custom-color {
+    background-color: navy;
+}
+
+.bg-navy  { background-color: var(--navy) }
+
+i {
+    font-size: 2.5rem;
+    color: white;
+}
